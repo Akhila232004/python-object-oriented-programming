@@ -65,7 +65,7 @@ print(f1.__sizeof__() + f2.__sizeof__())
 #         2000000
 #         112
 ```
-* Saving the above code file with name `func_prog.py`.
+* Saving the above code file with name `func_prog`.
   
 ## Create an Object Oriented Programming code
 * Here we create a Class (Object Oriented Programming code) with the same functionality of the functional programming code.
@@ -90,7 +90,7 @@ class OOP:
 * Saving the above code file with name `oop_test`.
 
 ## Import and Instantiate OOP Code File
-* Here we import the Object Oriented Programming code file `class_test` and create the objects.
+* Here we import the Object Oriented Programming code file `oop_test` and create the objects.
 * Assigning the values to the instances, and get the class instance size.
 ```python
 from oop_test import OOP as t1
@@ -125,6 +125,7 @@ print(Obj1.__sizeof__() + Obj2.__sizeof__())
 #         2000000
 #         32
 ```
+* Saving the above code file with name `oop_prop`.
 
 ## Functional Code vs. Object-Oriented Code
 * Python supports both functional programming and object-oriented programming paradigms, offering developers the flexibility to choose the approach that best fits their needs.
