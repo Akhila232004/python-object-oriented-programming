@@ -3,7 +3,7 @@
 # Python Tutorial
 &copy; TINITIATE.COM
 
-##### [Back To Contents](../../README.md)
+##### [Back To Contents](https://github.com/tinitiateprime/python/blob/main/README.md)
 
 # Object Oriented Programming Vs Functional Programming
 * To understand the difference between functional programming code and Object Oriented programming code, Lets consider a single problem and write code in both functional and Object Oriented.
