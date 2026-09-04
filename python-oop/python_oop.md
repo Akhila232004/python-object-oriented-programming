@@ -3,7 +3,7 @@
 # Python Tutorial
 &copy; TINITIATE.COM
 
-##### [Back To Contents](../../README.md)
+##### [Back To Contents](https://github.com/tinitiateprime/python/blob/main/README.md)
 
 # Python Object-Oriented Programming (OOP)
 * Object-Oriented Programming (OOP) in Python is a programming paradigm that allows you to structure your code in a way that models real-world entities as objects.
