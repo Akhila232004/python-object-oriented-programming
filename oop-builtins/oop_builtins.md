@@ -256,7 +256,7 @@ print(Dog.__doc__)
 # OUTPUT: This class represents a dog.
 ```
 
-##### [Back To Contents](../../README.md)
+##### [Back To Contents](https://github.com/tinitiateprime/python/blob/main/README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|
